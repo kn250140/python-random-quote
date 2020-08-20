@@ -5,7 +5,7 @@ print("Keep it logically awesome.")
   #quotes = f.readlines()
   #f.close()
 
-  #print(quotes[0])
+  #print(quotes[14])
 
 if __primary__== "__primary__":
   primary()
